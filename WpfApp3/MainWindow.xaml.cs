@@ -13,7 +13,7 @@ namespace WpfApp3
     {
         Color strokeColor = Colors.Black;
         Color fillColor = Colors.Transparent;
-        int strokeThickness = 1;
+        int strokeThickness = 1; 
         string shapeType = "Line";
         string actionType = "Draw";
         Point start = new Point { X = 0, Y = 0 };
